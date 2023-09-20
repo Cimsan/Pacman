@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WhqsMU3s3UsDQ1FJ3Z2yILi10o2ERK/aKDenJuqOctDrXSl31KM6e2tE3QUj9Nr+vKm83sXsQ5UTYz8uxuDl3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cim\\RiderProjects\\Pacman\\Pacman\\Pacman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cim\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Cim\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Cim\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Cim\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Cim\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Cim\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
